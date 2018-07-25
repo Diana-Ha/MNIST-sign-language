@@ -33,6 +33,7 @@ Once my model reached over 95% accuracy in its predictions, I tested it on even 
 
 ### Next Steps
 I will train a new model on a larger, more diverse data set and attempt to make the demo a real-time translator.
+For more details, please review the file "ASL.pdf".
 
 ### To run the demo:
 - All .py files are in the locations required to run the file.
