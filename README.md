@@ -10,21 +10,21 @@ This is my capstone project where I built a sign language interpreter using Kera
 ### Training My Model
 First I trained my model on the train data, then tested it on the test data. I measured success based on accuracy. My goal was to achieve a 95% or greater accuracy rate. Since the data is essentially a dataframe of pictures represented as pixels, I did not have to worry about missing data. Once I trained my model, I made many tweaks until I reached my target accuracy rate. When I looked at the 5% that was misclassified, I noticed that there were some trends:
 
-Letter | Number Misclassified	| Misclassed as
---- | --- | ---
-  T	     |       82	    |            X,L
-  S	      |      62	|ME
-  N	       |     49	|UAQ
-  G	        |    41	|TPQ
-  M	        |    31	|N
-  U	         |   22	|KR
-  R	          |  21	|VU
-  K	           | 21	|Y
-  H	    |        20	|G
-  D	     |       12	|AX
-  V	      |      10	|WU
-  Q	       |     8	|M
-  Y	        |    3	|P
+Letter	|Number Misclassified	|Misclassed as	|% of Total Misclassified
+--- | --- | --- | ---
+T	|82	|XL	|21%
+S	|62	|ME	|16%
+N	|49	|UAQ	|13%
+G	|41	|TPQ	|11%
+M	|31	|N	|8%
+U |22	|KR	|6%
+R	|21	|VU	|5%
+K |21	|Y	|5%
+H	|20	|G	|5%
+D	|12	|AX	|3%
+V	|10	|WU	|3%
+Q	|8	|M	|2%
+Y	|3	|P	|1%
 
 
 ### Testing My Model on Other Data
