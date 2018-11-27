@@ -1,4 +1,4 @@
-# capstone-MNIST-sign-language
+# MNIST-sign-language
 This is my capstone project where I built a sign language interpreter using Keras (Tensorflow backend).
 
 ### A couple of notes before we start:
