@@ -1,5 +1,5 @@
 # MNIST-sign-language
-This is my capstone project where I built a sign language interpreter using Keras (Tensorflow backend).
+Project: Build a sign language interpreter using Keras (Tensorflow backend) and Python.
 
 ### A couple of notes before we start:
 - My models were trained on publicly available MNIST sign language data provided on Kaggle. This data is located in the file named "mnist_data".
