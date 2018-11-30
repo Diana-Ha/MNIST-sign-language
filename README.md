@@ -1,5 +1,6 @@
 # MNIST-sign-language
 Project: Build a sign language interpreter using Keras (Tensorflow backend) and Python.
+
 To view a detailed write-up of what I did, please see my blog: http://www.dianaxcode.com/2018/11/28/building-a-sign-language-translator-using-mnist-data/
 
 ### A couple of notes before we start:
